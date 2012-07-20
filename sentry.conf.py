@@ -13,7 +13,7 @@ SENTRY_KEY = 'XvoJ2ZEubhvB803wU8yL/aDC2EmbjMDFf4oVxGSHbwY3qOKSSeSG0A=='
 # Set this to false to require authentication
 SENTRY_PUBLIC = False
 
-SENTRY_URL_PREFIX = 'http://mysentry.herokuapp.com/'
+SENTRY_URL_PREFIX = 'redacted'
 
 SENTRY_WEB_HOST = '0.0.0.0'
 SENTRY_WEB_PORT = os.environ.get('PORT', 80)
